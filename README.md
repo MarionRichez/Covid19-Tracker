@@ -52,7 +52,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 * [Chart.js](https://www.chartjs.org/) - JavaScript charting
 * [Leaflet](https://leafletjs.com/) - Interactive maps
-* [Material-UI](https://material-ui.com/) - React framework
+* [Material-UI](https://material-ui.com/) - React components
+* [ReactJs](https://fr.reactjs.org/) - The web framework used
+* [disease.sh](https://disease.sh/) - The API used
 
 ## Authors
 
