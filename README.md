@@ -1,3 +1,5 @@
+![Covid19 Tracker](https://raw.githubusercontent.com/MarionRichez/project-covid19-tracker/master/Covid19%20Tracker.png)
+
 # Covid-19 Tracker
 
 A page for tracking covid-19 cases around the world and in each country.
