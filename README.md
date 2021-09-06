@@ -1,10 +1,10 @@
-![Covid19 Tracker](https://raw.githubusercontent.com/MarionRichez/project-covid19-tracker/master/Covid19%20Tracker.png)
+![Covid19 Tracker](https://github.com/MarionRichez/project-covid19-tracker/blob/master/public/covid19-tracker.png)
 
 # Covid-19 Tracker
 
 A page for tracking covid-19 cases around the world and in each country.
 
-[Live Demo](https://covid19-tracker-3a17a.web.app/)
+[Live Demo](https://covid19-tracker.marion-richez.be/)
 
 ## Getting Started
 
