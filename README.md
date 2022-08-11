@@ -4,7 +4,7 @@
 
 A page for tracking covid-19 cases around the world and in each country.
 
-[Live Demo](https://covid19-tracker.marion-richez.be/)
+[Live Demo](https://covid19-tracker-3a17a.web.app/)
 
 ## Getting Started
 
